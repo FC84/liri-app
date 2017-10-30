@@ -1,0 +1,30 @@
+{
+  "name": "liri-app",
+  "version": "1.0.0",
+  "description": "initialize",
+  "main": "liri.js",
+  "dependencies": {
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.83.0",
+    "spotify": "^0.3.0",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FC84/liri-app.git"
+  },
+  "keywords": [
+    "npm",
+    "packages"
+  ],
+  "author": "Frank Chu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FC84/liri-app/issues"
+  },
+  "homepage": "https://github.com/FC84/liri-app#readme"
+}
